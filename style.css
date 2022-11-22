@@ -1,0 +1,72 @@
+*{
+    font-family: sans-serif;
+    color: #333;
+}
+hr{
+    width: 700px;
+}
+.first-container {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    margin: auto;
+    background-color:aliceblue;
+    border-radius: 10%;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.header-container {
+    flex-direction: column;
+}
+.pic-container {
+    
+}
+.name-container {
+flex-direction: column;
+}
+.profile-container {
+}
+.profile-p {
+    width: 600px;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.info-first-column {
+}
+.language {
+}
+.skills {
+}
+.info-second-column {
+}
+.education {
+}
+.uni {
+}
+.university1 {
+}
+.university2 {
+}
+.experience {
+}
+.job {
+}
+.company1 {
+}
+.company2 {
+}
+.contact-contaier {
+}
+.c-li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
